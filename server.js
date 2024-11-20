@@ -1,7 +1,7 @@
 const express = require('express');
 const cors = require('cors');
 const path = require('path'); // Required to serve static files
-const connectDB = require('../my-api/config/db'); // Import the MongoDB connection function
+const connectDB = require('./config/db'); // Corrected path for MongoDB connection
 const userRoutes = require('./routes/userRoutes');
 const documentRoutes = require('./routes/documentRoutes');
 const analyticsRoutes = require('./routes/analyticsRoutes');
@@ -51,7 +51,7 @@ app.get('/api', (req, res) => {
 });
 
 // Serve React Frontend
-const buildPath = path.join(__dirname, '../document-digitization-app/build');
+const buildPath = path.join(__dirname, 'build'); // Adjusted path for the React build directory
 app.use(express.static(buildPath));
 
 // Catch-all route for React
