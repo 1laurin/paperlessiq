@@ -3,7 +3,8 @@ const { authenticateToken } = require('../middleware/authMiddleware');
 const {
     fetchDocumentsForExport,
     handleExportRequest,
-} = require('../controllers/exportController');
+} = require('./../controllers/exportController');
+
 
 const router = express.Router();
 
