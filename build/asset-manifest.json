@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.49c79409.css",
-    "main.js": "/static/js/main.8dac82d6.js",
+    "main.js": "/static/js/main.ff8904f8.js",
     "static/media/2.png": "/static/media/2.b80668fea0773cbef444.png",
     "static/media/hiw-dashboard.png": "/static/media/hiw-dashboard.f72c223bf885603fab78.png",
     "static/media/hiw-archive.png": "/static/media/hiw-archive.e0671a3bef4d5e2735a1.png",
@@ -9,10 +9,10 @@
     "static/media/paperlessiq-logo.png": "/static/media/paperlessiq-logo.46ed5dbf784fa9b6449c.png",
     "index.html": "/index.html",
     "main.49c79409.css.map": "/static/css/main.49c79409.css.map",
-    "main.8dac82d6.js.map": "/static/js/main.8dac82d6.js.map"
+    "main.ff8904f8.js.map": "/static/js/main.ff8904f8.js.map"
   },
   "entrypoints": [
     "static/css/main.49c79409.css",
-    "static/js/main.8dac82d6.js"
+    "static/js/main.ff8904f8.js"
   ]
 }
