@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.d4c6ab0f.css",
-    "main.js": "/static/js/main.df2c3bfe.js",
+    "main.css": "/static/css/main.862320c9.css",
+    "main.js": "/static/js/main.d5e5395c.js",
     "static/media/2.png": "/static/media/2.b80668fea0773cbef444.png",
     "static/media/hiw-dashboard.png": "/static/media/hiw-dashboard.f72c223bf885603fab78.png",
     "static/media/hiw-archive.png": "/static/media/hiw-archive.e0671a3bef4d5e2735a1.png",
     "static/media/hiw-cloud.png": "/static/media/hiw-cloud.81d7a0203e594a8220c8.png",
     "static/media/paperlessiq-logo.png": "/static/media/paperlessiq-logo.46ed5dbf784fa9b6449c.png",
     "index.html": "/index.html",
-    "main.d4c6ab0f.css.map": "/static/css/main.d4c6ab0f.css.map",
-    "main.df2c3bfe.js.map": "/static/js/main.df2c3bfe.js.map"
+    "main.862320c9.css.map": "/static/css/main.862320c9.css.map",
+    "main.d5e5395c.js.map": "/static/js/main.d5e5395c.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4c6ab0f.css",
-    "static/js/main.df2c3bfe.js"
+    "static/css/main.862320c9.css",
+    "static/js/main.d5e5395c.js"
   ]
 }
